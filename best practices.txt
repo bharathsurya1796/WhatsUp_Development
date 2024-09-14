@@ -1,6 +1,6 @@
 Bidi -> bidirectional
 
-Selenium -JAVA
+Selenium -JAVA - testng
 
 Best Practices to Automate a Testcase
 
