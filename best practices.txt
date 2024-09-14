@@ -1,0 +1,26 @@
+Bidi -> bidirectional
+
+Selenium -JAVA
+
+Best Practices to Automate a Testcase
+
+# Manual perform test steps to understand the flow
+# In parallel, capture the following 
+    - action (selenium method)
+    - locator (xpath/id)
+    - verification (assert)
+# Code the steps with comments
+# Debug the steps with break points (TDD)
+# Execute them for different data
+# Push the code to git repo
+# Execute through Jenkins Pipeline
+# Report the results
+
+Libraries
+
+# Selenium Webdriver with Java binding
+# TestNG
+# Cucumber
+# Allure Reporting
+# Apache POI / Jackson
+# Faker API
